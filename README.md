@@ -1,7 +1,7 @@
 
 <div img align="center">
  👋 Olá! Eu sou o Luis Gregorio<br>
--💻 Atuo como Backend<br>
+-💻 Atuo como Desenvolvedor Full Stack Jr<br>
 -👨🏻‍🎓 Cursando Análise e Desenvolvimento de Sistemas<br>
 -🌐 Entusiasta da tecnologia<br>
 </div>
